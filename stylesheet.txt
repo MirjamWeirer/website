@@ -1,0 +1,20 @@
+  <style>
+
+        body {background-color: #ffffcc;
+                font-family: sans-serif; }
+        a {color: #33001a;
+           font-size: 18px; }
+
+        h1 {color: #4700b3;
+            text-align: center;
+            font-weight: bold;
+            font-size: 32px; }
+
+        h2 {color: #b3003b; }
+
+        h3 {color: #b3003b; }
+
+        p {font-size: 18px}
+
+  </style>
+
